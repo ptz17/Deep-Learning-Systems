@@ -1,16 +1,16 @@
 # Task 1: Binary classification 
 Input dataset: dataset-1.csv \
-Features: first 4 columns 
-Label.  : last column 
+Features: first 4 columns \
+Label: last column \
 
 
-Task 1-1: Model-1 to implement 
-1 hidden layer without activation function 
+Task 1-1: Model-1 to implement \
+1 hidden layer without activation function \
 Model parameter: 4(input dim) -> N (hidden: define by yourself) -> 1 (output) + sigmoid 
 
 
-Task 1-2: Model-1 to implement 
-1 hidden layer with sigmoid as activation function 
+Task 1-2: Model-1 to implement \
+1 hidden layer with sigmoid as activation function \
 Model parameter: 4(input dim) -> N (hidden: define by yourself) -> sigmoid -> 1 (output) + sigmoid 
 
     
