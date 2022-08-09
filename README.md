@@ -1,3 +1,3 @@
 # Deep-Learning-Systems
 
-A few labs exploring various deep learning concepts from a Deep Learning Systems course.
+A few labs exploring various concepts and models from a Deep Learning Systems course.
